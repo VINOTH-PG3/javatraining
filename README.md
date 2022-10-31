@@ -1,0 +1,2 @@
+# javatraining
+inheritance example
